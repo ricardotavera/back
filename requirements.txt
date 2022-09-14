@@ -44,7 +44,7 @@ pycparser==2.21
 pygame==2.1.0
 Pygments==2.10.0
 pyparsing==3.0.6
-pypiwin32==223
+#pypiwin32==223
 pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2022.2.1
